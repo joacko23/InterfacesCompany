@@ -1,0 +1,9 @@
+com\mycompany\iterfacescompany\model\GameDevCompany.class
+com\mycompany\iterfacescompany\model\Tester.class
+com\mycompany\iterfacescompany\model\Designer.class
+com\mycompany\iterfacescompany\IterfacesCompany.class
+com\mycompany\iterfacescompany\model\Artist.class
+com\mycompany\iterfacescompany\model\Programmer.class
+com\mycompany\iterfacescompany\Interfaces\Employee.class
+com\mycompany\iterfacescompany\model\OutsourcingCompany.class
+com\mycompany\iterfacescompany\Interfaces\Company.class
